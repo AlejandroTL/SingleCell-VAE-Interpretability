@@ -1,0 +1,4200 @@
+
+ Epoch 1 of 300 
+------------
+Train Loss: 1439.4850
+Train KL Loss: 0.3710
+Train Rec Loss: 1383.8367
+------------
+Test Loss: 1336.8433
+Test KL Loss: 0.1481
+Test Rec Loss: 1314.6280
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 2 of 300 
+------------
+Train Loss: 1383.3383
+Train KL Loss: 0.1989
+Train Rec Loss: 1353.5045
+------------
+Test Loss: 1328.0520
+Test KL Loss: 0.0927
+Test Rec Loss: 1314.1475
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 3 of 300 
+------------
+Train Loss: 1362.6568
+Train KL Loss: 0.1345
+Train Rec Loss: 1342.4892
+------------
+Test Loss: 1323.7219
+Test KL Loss: 0.0655
+Test Rec Loss: 1313.8957
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 4 of 300 
+------------
+Train Loss: 1350.5399
+Train KL Loss: 0.0980
+Train Rec Loss: 1335.8366
+------------
+Test Loss: 1321.0061
+Test KL Loss: 0.0490
+Test Rec Loss: 1313.6584
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 5 of 300 
+------------
+Train Loss: 1342.2114
+Train KL Loss: 0.0744
+Train Rec Loss: 1331.0470
+------------
+Test Loss: 1319.1893
+Test KL Loss: 0.0382
+Test Rec Loss: 1313.4532
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 6 of 300 
+------------
+Train Loss: 1335.6492
+Train KL Loss: 0.0576
+Train Rec Loss: 1327.0072
+------------
+Test Loss: 1317.8552
+Test KL Loss: 0.0305
+Test Rec Loss: 1313.2784
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 7 of 300 
+------------
+Train Loss: 1330.4517
+Train KL Loss: 0.0456
+Train Rec Loss: 1323.6111
+------------
+Test Loss: 1316.8976
+Test KL Loss: 0.0247
+Test Rec Loss: 1313.1879
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 8 of 300 
+------------
+Train Loss: 1326.3412
+Train KL Loss: 0.0362
+Train Rec Loss: 1320.9059
+------------
+Test Loss: 1316.1316
+Test KL Loss: 0.0204
+Test Rec Loss: 1313.0789
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 9 of 300 
+------------
+Train Loss: 1322.7983
+Train KL Loss: 0.0291
+Train Rec Loss: 1318.4373
+------------
+Test Loss: 1315.4742
+Test KL Loss: 0.0167
+Test Rec Loss: 1312.9703
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 10 of 300 
+------------
+Train Loss: 1319.7788
+Train KL Loss: 0.0235
+Train Rec Loss: 1316.2528
+------------
+Test Loss: 1314.9689
+Test KL Loss: 0.0139
+Test Rec Loss: 1312.8788
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 11 of 300 
+------------
+Train Loss: 1317.2302
+Train KL Loss: 0.0191
+Train Rec Loss: 1314.3629
+------------
+Test Loss: 1314.5597
+Test KL Loss: 0.0116
+Test Rec Loss: 1312.8174
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 12 of 300 
+------------
+Train Loss: 1315.3452
+Train KL Loss: 0.0158
+Train Rec Loss: 1312.9801
+------------
+Test Loss: 1314.2427
+Test KL Loss: 0.0098
+Test Rec Loss: 1312.7778
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 13 of 300 
+------------
+Train Loss: 1313.5298
+Train KL Loss: 0.0130
+Train Rec Loss: 1311.5847
+------------
+Test Loss: 1313.9644
+Test KL Loss: 0.0082
+Test Rec Loss: 1312.7371
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 14 of 300 
+------------
+Train Loss: 1311.8819
+Train KL Loss: 0.0107
+Train Rec Loss: 1310.2827
+------------
+Test Loss: 1313.7196
+Test KL Loss: 0.0068
+Test Rec Loss: 1312.6966
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 15 of 300 
+------------
+Train Loss: 1310.5312
+Train KL Loss: 0.0088
+Train Rec Loss: 1309.2160
+------------
+Test Loss: 1313.5146
+Test KL Loss: 0.0058
+Test Rec Loss: 1312.6436
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 16 of 300 
+------------
+Train Loss: 1309.4672
+Train KL Loss: 0.0073
+Train Rec Loss: 1308.3743
+------------
+Test Loss: 1313.3603
+Test KL Loss: 0.0049
+Test Rec Loss: 1312.6277
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 17 of 300 
+------------
+Train Loss: 1308.3787
+Train KL Loss: 0.0060
+Train Rec Loss: 1307.4801
+------------
+Test Loss: 1313.2054
+Test KL Loss: 0.0041
+Test Rec Loss: 1312.5925
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 18 of 300 
+------------
+Train Loss: 1307.5374
+Train KL Loss: 0.0049
+Train Rec Loss: 1306.7995
+------------
+Test Loss: 1313.1114
+Test KL Loss: 0.0034
+Test Rec Loss: 1312.5967
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 19 of 300 
+------------
+Train Loss: 1306.7098
+Train KL Loss: 0.0040
+Train Rec Loss: 1306.1057
+------------
+Test Loss: 1313.0075
+Test KL Loss: 0.0029
+Test Rec Loss: 1312.5785
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 20 of 300 
+------------
+Train Loss: 1305.9809
+Train KL Loss: 0.0033
+Train Rec Loss: 1305.4833
+------------
+Test Loss: 1312.9224
+Test KL Loss: 0.0024
+Test Rec Loss: 1312.5653
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 21 of 300 
+------------
+Train Loss: 1305.4610
+Train KL Loss: 0.0027
+Train Rec Loss: 1305.0516
+------------
+Test Loss: 1312.8479
+Test KL Loss: 0.0020
+Test Rec Loss: 1312.5491
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 22 of 300 
+------------
+Train Loss: 1304.7905
+Train KL Loss: 0.0022
+Train Rec Loss: 1304.4534
+------------
+Test Loss: 1312.7864
+Test KL Loss: 0.0016
+Test Rec Loss: 1312.5402
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 23 of 300 
+------------
+Train Loss: 1304.2978
+Train KL Loss: 0.0019
+Train Rec Loss: 1304.0183
+------------
+Test Loss: 1312.7455
+Test KL Loss: 0.0014
+Test Rec Loss: 1312.5372
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 24 of 300 
+------------
+Train Loss: 1303.7992
+Train KL Loss: 0.0015
+Train Rec Loss: 1303.5713
+------------
+Test Loss: 1312.6892
+Test KL Loss: 0.0011
+Test Rec Loss: 1312.5179
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 25 of 300 
+------------
+Train Loss: 1303.5703
+Train KL Loss: 0.0012
+Train Rec Loss: 1303.3834
+------------
+Test Loss: 1312.6497
+Test KL Loss: 0.0009
+Test Rec Loss: 1312.5097
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 26 of 300 
+------------
+Train Loss: 1303.1369
+Train KL Loss: 0.0010
+Train Rec Loss: 1302.9861
+------------
+Test Loss: 1312.6170
+Test KL Loss: 0.0008
+Test Rec Loss: 1312.5002
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 27 of 300 
+------------
+Train Loss: 1302.8016
+Train KL Loss: 0.0008
+Train Rec Loss: 1302.6784
+------------
+Test Loss: 1312.5955
+Test KL Loss: 0.0006
+Test Rec Loss: 1312.4992
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 28 of 300 
+------------
+Train Loss: 1302.5389
+Train KL Loss: 0.0007
+Train Rec Loss: 1302.4380
+------------
+Test Loss: 1312.5678
+Test KL Loss: 0.0005
+Test Rec Loss: 1312.4874
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 29 of 300 
+------------
+Train Loss: 1302.2869
+Train KL Loss: 0.0006
+Train Rec Loss: 1302.2038
+------------
+Test Loss: 1312.5505
+Test KL Loss: 0.0004
+Test Rec Loss: 1312.4831
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 30 of 300 
+------------
+Train Loss: 1302.0346
+Train KL Loss: 0.0005
+Train Rec Loss: 1301.9658
+------------
+Test Loss: 1312.5428
+Test KL Loss: 0.0004
+Test Rec Loss: 1312.4854
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 31 of 300 
+------------
+Train Loss: 1301.8504
+Train KL Loss: 0.0004
+Train Rec Loss: 1301.7936
+------------
+Test Loss: 1312.5225
+Test KL Loss: 0.0003
+Test Rec Loss: 1312.4749
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 32 of 300 
+------------
+Train Loss: 1301.6283
+Train KL Loss: 0.0003
+Train Rec Loss: 1301.5823
+------------
+Test Loss: 1312.5163
+Test KL Loss: 0.0003
+Test Rec Loss: 1312.4782
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 33 of 300 
+------------
+Train Loss: 1301.4951
+Train KL Loss: 0.0003
+Train Rec Loss: 1301.4572
+------------
+Test Loss: 1312.5119
+Test KL Loss: 0.0002
+Test Rec Loss: 1312.4798
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 34 of 300 
+------------
+Train Loss: 1301.2892
+Train KL Loss: 0.0002
+Train Rec Loss: 1301.2579
+------------
+Test Loss: 1312.4964
+Test KL Loss: 0.0002
+Test Rec Loss: 1312.4695
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 35 of 300 
+------------
+Train Loss: 1301.1227
+Train KL Loss: 0.0002
+Train Rec Loss: 1301.0968
+------------
+Test Loss: 1312.4888
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4669
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 36 of 300 
+------------
+Train Loss: 1300.9864
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.9648
+------------
+Test Loss: 1312.4785
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4574
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 37 of 300 
+------------
+Train Loss: 1300.9010
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.8811
+------------
+Test Loss: 1312.4746
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4539
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 38 of 300 
+------------
+Train Loss: 1300.7621
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.7441
+------------
+Test Loss: 1312.4698
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4537
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 39 of 300 
+------------
+Train Loss: 1300.6605
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.6455
+------------
+Test Loss: 1312.4571
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4431
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 40 of 300 
+------------
+Train Loss: 1300.5715
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.5584
+------------
+Test Loss: 1312.4490
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4366
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 41 of 300 
+------------
+Train Loss: 1300.4920
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.4806
+------------
+Test Loss: 1312.4385
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4285
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 42 of 300 
+------------
+Train Loss: 1300.3940
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.3839
+------------
+Test Loss: 1312.4290
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4188
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 43 of 300 
+------------
+Train Loss: 1300.3418
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.3317
+------------
+Test Loss: 1312.4191
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.4097
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 44 of 300 
+------------
+Train Loss: 1300.2625
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.2533
+------------
+Test Loss: 1312.4066
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.3978
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 45 of 300 
+------------
+Train Loss: 1300.2339
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.2250
+------------
+Test Loss: 1312.3953
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.3864
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 46 of 300 
+------------
+Train Loss: 1300.0902
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.0818
+------------
+Test Loss: 1312.3853
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.3772
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 47 of 300 
+------------
+Train Loss: 1300.0813
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.0732
+------------
+Test Loss: 1312.3779
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.3699
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 48 of 300 
+------------
+Train Loss: 1300.0186
+Train KL Loss: 0.0001
+Train Rec Loss: 1300.0107
+------------
+Test Loss: 1312.3672
+Test KL Loss: 0.0001
+Test Rec Loss: 1312.3594
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 49 of 300 
+------------
+Train Loss: 1300.0056
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.9982
+------------
+Test Loss: 1312.3583
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.3515
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 50 of 300 
+------------
+Train Loss: 1299.9700
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.9632
+------------
+Test Loss: 1312.3462
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.3395
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 51 of 300 
+------------
+Train Loss: 1299.8923
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.8858
+------------
+Test Loss: 1312.3349
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.3280
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 52 of 300 
+------------
+Train Loss: 1299.8761
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.8690
+------------
+Test Loss: 1312.3269
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.3199
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 53 of 300 
+------------
+Train Loss: 1299.8234
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.8169
+------------
+Test Loss: 1312.3169
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.3099
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 54 of 300 
+------------
+Train Loss: 1299.8201
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.8134
+------------
+Test Loss: 1312.3053
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2990
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 55 of 300 
+------------
+Train Loss: 1299.7906
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.7847
+------------
+Test Loss: 1312.2936
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2884
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 56 of 300 
+------------
+Train Loss: 1299.7400
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.7343
+------------
+Test Loss: 1312.2848
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2795
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 57 of 300 
+------------
+Train Loss: 1299.7007
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.6951
+------------
+Test Loss: 1312.2740
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2681
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 58 of 300 
+------------
+Train Loss: 1299.7146
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.7092
+------------
+Test Loss: 1312.2647
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2589
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 59 of 300 
+------------
+Train Loss: 1299.6766
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.6715
+------------
+Test Loss: 1312.2531
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2476
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 60 of 300 
+------------
+Train Loss: 1299.6463
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.6414
+------------
+Test Loss: 1312.2406
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2362
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 61 of 300 
+------------
+Train Loss: 1299.6514
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.6469
+------------
+Test Loss: 1312.2309
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2273
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 62 of 300 
+------------
+Train Loss: 1299.6037
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5995
+------------
+Test Loss: 1312.2188
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2147
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 63 of 300 
+------------
+Train Loss: 1299.6003
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5962
+------------
+Test Loss: 1312.2098
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.2059
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 64 of 300 
+------------
+Train Loss: 1299.5860
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5818
+------------
+Test Loss: 1312.2025
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1976
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 65 of 300 
+------------
+Train Loss: 1299.5665
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5623
+------------
+Test Loss: 1312.1921
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1874
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 66 of 300 
+------------
+Train Loss: 1299.5511
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5471
+------------
+Test Loss: 1312.1823
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1787
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 67 of 300 
+------------
+Train Loss: 1299.5394
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5357
+------------
+Test Loss: 1312.1735
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1700
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 68 of 300 
+------------
+Train Loss: 1299.5202
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5166
+------------
+Test Loss: 1312.1649
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1609
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 69 of 300 
+------------
+Train Loss: 1299.5165
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5129
+------------
+Test Loss: 1312.1549
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1516
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 70 of 300 
+------------
+Train Loss: 1299.5049
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.5016
+------------
+Test Loss: 1312.1459
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1429
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 71 of 300 
+------------
+Train Loss: 1299.4987
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4957
+------------
+Test Loss: 1312.1395
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1364
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 72 of 300 
+------------
+Train Loss: 1299.4750
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4721
+------------
+Test Loss: 1312.1303
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1272
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 73 of 300 
+------------
+Train Loss: 1299.4567
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4538
+------------
+Test Loss: 1312.1238
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1212
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 74 of 300 
+------------
+Train Loss: 1299.4651
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4622
+------------
+Test Loss: 1312.1162
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1135
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 75 of 300 
+------------
+Train Loss: 1299.4394
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4366
+------------
+Test Loss: 1312.1077
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.1047
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 76 of 300 
+------------
+Train Loss: 1299.4356
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4327
+------------
+Test Loss: 1312.1013
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0982
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 77 of 300 
+------------
+Train Loss: 1299.4336
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4308
+------------
+Test Loss: 1312.0931
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0899
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 78 of 300 
+------------
+Train Loss: 1299.4473
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4444
+------------
+Test Loss: 1312.0862
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0836
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 79 of 300 
+------------
+Train Loss: 1299.4291
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4262
+------------
+Test Loss: 1312.0791
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0762
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 80 of 300 
+------------
+Train Loss: 1299.4268
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4241
+------------
+Test Loss: 1312.0718
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0691
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 81 of 300 
+------------
+Train Loss: 1299.4037
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4010
+------------
+Test Loss: 1312.0654
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0627
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 82 of 300 
+------------
+Train Loss: 1299.4185
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.4158
+------------
+Test Loss: 1312.0598
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0571
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 83 of 300 
+------------
+Train Loss: 1299.4010
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3985
+------------
+Test Loss: 1312.0554
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0526
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 84 of 300 
+------------
+Train Loss: 1299.3838
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3811
+------------
+Test Loss: 1312.0486
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0462
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 85 of 300 
+------------
+Train Loss: 1299.3963
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3938
+------------
+Test Loss: 1312.0444
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0423
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 86 of 300 
+------------
+Train Loss: 1299.3748
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3725
+------------
+Test Loss: 1312.0401
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0380
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 87 of 300 
+------------
+Train Loss: 1299.3731
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3706
+------------
+Test Loss: 1312.0349
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0328
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 88 of 300 
+------------
+Train Loss: 1299.3768
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3743
+------------
+Test Loss: 1312.0307
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0277
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 89 of 300 
+------------
+Train Loss: 1299.3812
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3787
+------------
+Test Loss: 1312.0259
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0236
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 90 of 300 
+------------
+Train Loss: 1299.3583
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3561
+------------
+Test Loss: 1312.0226
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0204
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 91 of 300 
+------------
+Train Loss: 1299.3617
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3594
+------------
+Test Loss: 1312.0178
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0150
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 92 of 300 
+------------
+Train Loss: 1299.3614
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3593
+------------
+Test Loss: 1312.0149
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0122
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 93 of 300 
+------------
+Train Loss: 1299.3607
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3586
+------------
+Test Loss: 1312.0093
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0074
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 94 of 300 
+------------
+Train Loss: 1299.3483
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3463
+------------
+Test Loss: 1312.0072
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0047
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 95 of 300 
+------------
+Train Loss: 1299.3390
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3370
+------------
+Test Loss: 1312.0045
+Test KL Loss: 0.0000
+Test Rec Loss: 1312.0024
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 96 of 300 
+------------
+Train Loss: 1299.3510
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3489
+------------
+Test Loss: 1312.0011
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9989
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 97 of 300 
+------------
+Train Loss: 1299.3453
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3432
+------------
+Test Loss: 1311.9975
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9953
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 98 of 300 
+------------
+Train Loss: 1299.3419
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3398
+------------
+Test Loss: 1311.9945
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9927
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 99 of 300 
+------------
+Train Loss: 1299.3453
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3433
+------------
+Test Loss: 1311.9931
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9908
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 100 of 300 
+------------
+Train Loss: 1299.3231
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3213
+------------
+Test Loss: 1311.9896
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9876
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 101 of 300 
+------------
+Train Loss: 1299.3375
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3354
+------------
+Test Loss: 1311.9871
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9848
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 102 of 300 
+------------
+Train Loss: 1299.3229
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3209
+------------
+Test Loss: 1311.9855
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9830
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 103 of 300 
+------------
+Train Loss: 1299.3278
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3259
+------------
+Test Loss: 1311.9835
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9813
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 104 of 300 
+------------
+Train Loss: 1299.3241
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3222
+------------
+Test Loss: 1311.9794
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9777
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 105 of 300 
+------------
+Train Loss: 1299.3196
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3177
+------------
+Test Loss: 1311.9784
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9760
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 106 of 300 
+------------
+Train Loss: 1299.3272
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3254
+------------
+Test Loss: 1311.9762
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9745
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 107 of 300 
+------------
+Train Loss: 1299.3191
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3173
+------------
+Test Loss: 1311.9750
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9731
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 108 of 300 
+------------
+Train Loss: 1299.3192
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3173
+------------
+Test Loss: 1311.9736
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9715
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 109 of 300 
+------------
+Train Loss: 1299.3107
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3089
+------------
+Test Loss: 1311.9714
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9696
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 110 of 300 
+------------
+Train Loss: 1299.3137
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3118
+------------
+Test Loss: 1311.9695
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9677
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 111 of 300 
+------------
+Train Loss: 1299.3200
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3181
+------------
+Test Loss: 1311.9694
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9674
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 112 of 300 
+------------
+Train Loss: 1299.3187
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3169
+------------
+Test Loss: 1311.9679
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9660
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 113 of 300 
+------------
+Train Loss: 1299.3189
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3172
+------------
+Test Loss: 1311.9673
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9656
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 114 of 300 
+------------
+Train Loss: 1299.3075
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3061
+------------
+Test Loss: 1311.9671
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9655
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 115 of 300 
+------------
+Train Loss: 1299.3117
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3100
+------------
+Test Loss: 1311.9644
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9628
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 116 of 300 
+------------
+Train Loss: 1299.3114
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3098
+------------
+Test Loss: 1311.9658
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9641
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 117 of 300 
+------------
+Train Loss: 1299.3073
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3057
+------------
+Test Loss: 1311.9647
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 118 of 300 
+------------
+Train Loss: 1299.3040
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3025
+------------
+Test Loss: 1311.9639
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9624
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 119 of 300 
+------------
+Train Loss: 1299.3064
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3049
+------------
+Test Loss: 1311.9634
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9611
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 120 of 300 
+------------
+Train Loss: 1299.3102
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3087
+------------
+Test Loss: 1311.9623
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9608
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 121 of 300 
+------------
+Train Loss: 1299.3084
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3070
+------------
+Test Loss: 1311.9608
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9594
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 122 of 300 
+------------
+Train Loss: 1299.2949
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2937
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9574
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 123 of 300 
+------------
+Train Loss: 1299.2972
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2959
+------------
+Test Loss: 1311.9589
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9574
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 124 of 300 
+------------
+Train Loss: 1299.3051
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3038
+------------
+Test Loss: 1311.9584
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9571
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 125 of 300 
+------------
+Train Loss: 1299.2926
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2914
+------------
+Test Loss: 1311.9602
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9587
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 126 of 300 
+------------
+Train Loss: 1299.2969
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2957
+------------
+Test Loss: 1311.9587
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9573
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 127 of 300 
+------------
+Train Loss: 1299.3015
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3002
+------------
+Test Loss: 1311.9582
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9569
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 128 of 300 
+------------
+Train Loss: 1299.3010
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2998
+------------
+Test Loss: 1311.9594
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9580
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 129 of 300 
+------------
+Train Loss: 1299.3030
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3017
+------------
+Test Loss: 1311.9579
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9565
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 130 of 300 
+------------
+Train Loss: 1299.2938
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2928
+------------
+Test Loss: 1311.9592
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9580
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 131 of 300 
+------------
+Train Loss: 1299.3041
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.3029
+------------
+Test Loss: 1311.9580
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9567
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 132 of 300 
+------------
+Train Loss: 1299.2960
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2949
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9572
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 133 of 300 
+------------
+Train Loss: 1299.2993
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2982
+------------
+Test Loss: 1311.9591
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9581
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 134 of 300 
+------------
+Train Loss: 1299.2938
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2928
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9568
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 135 of 300 
+------------
+Train Loss: 1299.2979
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2971
+------------
+Test Loss: 1311.9584
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9572
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 136 of 300 
+------------
+Train Loss: 1299.2943
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2935
+------------
+Test Loss: 1311.9582
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9573
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 137 of 300 
+------------
+Train Loss: 1299.2954
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2946
+------------
+Test Loss: 1311.9569
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9561
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 138 of 300 
+------------
+Train Loss: 1299.2900
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2892
+------------
+Test Loss: 1311.9561
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9552
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 139 of 300 
+------------
+Train Loss: 1299.2931
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2923
+------------
+Test Loss: 1311.9573
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9564
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 140 of 300 
+------------
+Train Loss: 1299.2843
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2835
+------------
+Test Loss: 1311.9584
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9575
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 141 of 300 
+------------
+Train Loss: 1299.2973
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2965
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9571
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 142 of 300 
+------------
+Train Loss: 1299.2876
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2869
+------------
+Test Loss: 1311.9580
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9571
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 143 of 300 
+------------
+Train Loss: 1299.2884
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2876
+------------
+Test Loss: 1311.9580
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9569
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 144 of 300 
+------------
+Train Loss: 1299.2933
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2924
+------------
+Test Loss: 1311.9571
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9562
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 145 of 300 
+------------
+Train Loss: 1299.2883
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2875
+------------
+Test Loss: 1311.9589
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9578
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 146 of 300 
+------------
+Train Loss: 1299.2905
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2897
+------------
+Test Loss: 1311.9585
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9577
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 147 of 300 
+------------
+Train Loss: 1299.2857
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2850
+------------
+Test Loss: 1311.9575
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9568
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 148 of 300 
+------------
+Train Loss: 1299.2842
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2835
+------------
+Test Loss: 1311.9585
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9578
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 149 of 300 
+------------
+Train Loss: 1299.2831
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2824
+------------
+Test Loss: 1311.9587
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9575
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 150 of 300 
+------------
+Train Loss: 1299.2898
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2890
+------------
+Test Loss: 1311.9586
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9573
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 151 of 300 
+------------
+Train Loss: 1299.2887
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2880
+------------
+Test Loss: 1311.9584
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9575
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 152 of 300 
+------------
+Train Loss: 1299.2914
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2907
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9573
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 153 of 300 
+------------
+Train Loss: 1299.2894
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2886
+------------
+Test Loss: 1311.9580
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9570
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 154 of 300 
+------------
+Train Loss: 1299.2869
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2862
+------------
+Test Loss: 1311.9582
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9568
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 155 of 300 
+------------
+Train Loss: 1299.2900
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2892
+------------
+Test Loss: 1311.9583
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9566
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 156 of 300 
+------------
+Train Loss: 1299.2905
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2897
+------------
+Test Loss: 1311.9584
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9574
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 157 of 300 
+------------
+Train Loss: 1299.2857
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2851
+------------
+Test Loss: 1311.9594
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9585
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 158 of 300 
+------------
+Train Loss: 1299.2862
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2857
+------------
+Test Loss: 1311.9600
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9587
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 159 of 300 
+------------
+Train Loss: 1299.2869
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2863
+------------
+Test Loss: 1311.9589
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9576
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 160 of 300 
+------------
+Train Loss: 1299.2815
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2809
+------------
+Test Loss: 1311.9588
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9577
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 161 of 300 
+------------
+Train Loss: 1299.2846
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2839
+------------
+Test Loss: 1311.9597
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9588
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 162 of 300 
+------------
+Train Loss: 1299.2861
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2856
+------------
+Test Loss: 1311.9590
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9583
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 163 of 300 
+------------
+Train Loss: 1299.2867
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2860
+------------
+Test Loss: 1311.9598
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9588
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 164 of 300 
+------------
+Train Loss: 1299.2888
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2881
+------------
+Test Loss: 1311.9606
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9592
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 165 of 300 
+------------
+Train Loss: 1299.2844
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2838
+------------
+Test Loss: 1311.9590
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9581
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 166 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2844
+------------
+Test Loss: 1311.9590
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9582
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 167 of 300 
+------------
+Train Loss: 1299.2949
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2943
+------------
+Test Loss: 1311.9608
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9593
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 168 of 300 
+------------
+Train Loss: 1299.2873
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2867
+------------
+Test Loss: 1311.9606
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9597
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 169 of 300 
+------------
+Train Loss: 1299.2845
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2840
+------------
+Test Loss: 1311.9594
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9588
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 170 of 300 
+------------
+Train Loss: 1299.2837
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2832
+------------
+Test Loss: 1311.9617
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9609
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 171 of 300 
+------------
+Train Loss: 1299.2844
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2839
+------------
+Test Loss: 1311.9602
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9589
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 172 of 300 
+------------
+Train Loss: 1299.2876
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2871
+------------
+Test Loss: 1311.9596
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9588
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 173 of 300 
+------------
+Train Loss: 1299.2800
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2797
+------------
+Test Loss: 1311.9608
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9597
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 174 of 300 
+------------
+Train Loss: 1299.2862
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2859
+------------
+Test Loss: 1311.9606
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9599
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 175 of 300 
+------------
+Train Loss: 1299.2821
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2817
+------------
+Test Loss: 1311.9597
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9587
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 176 of 300 
+------------
+Train Loss: 1299.2910
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2906
+------------
+Test Loss: 1311.9605
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9599
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 177 of 300 
+------------
+Train Loss: 1299.2832
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2829
+------------
+Test Loss: 1311.9595
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9587
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 178 of 300 
+------------
+Train Loss: 1299.2863
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2860
+------------
+Test Loss: 1311.9607
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9600
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 179 of 300 
+------------
+Train Loss: 1299.2830
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2827
+------------
+Test Loss: 1311.9624
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9614
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 180 of 300 
+------------
+Train Loss: 1299.2874
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2870
+------------
+Test Loss: 1311.9622
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9612
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 181 of 300 
+------------
+Train Loss: 1299.2837
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2833
+------------
+Test Loss: 1311.9628
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9616
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 182 of 300 
+------------
+Train Loss: 1299.2851
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2847
+------------
+Test Loss: 1311.9617
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9603
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 183 of 300 
+------------
+Train Loss: 1299.2873
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2869
+------------
+Test Loss: 1311.9621
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9610
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 184 of 300 
+------------
+Train Loss: 1299.2838
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2835
+------------
+Test Loss: 1311.9609
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9599
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 185 of 300 
+------------
+Train Loss: 1299.2830
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2827
+------------
+Test Loss: 1311.9622
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9614
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 186 of 300 
+------------
+Train Loss: 1299.2800
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2797
+------------
+Test Loss: 1311.9616
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9605
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 187 of 300 
+------------
+Train Loss: 1299.2833
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2830
+------------
+Test Loss: 1311.9618
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9610
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 188 of 300 
+------------
+Train Loss: 1299.2862
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2859
+------------
+Test Loss: 1311.9633
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9617
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 189 of 300 
+------------
+Train Loss: 1299.2892
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2887
+------------
+Test Loss: 1311.9624
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9615
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 190 of 300 
+------------
+Train Loss: 1299.2807
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2803
+------------
+Test Loss: 1311.9617
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9608
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 191 of 300 
+------------
+Train Loss: 1299.2843
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2840
+------------
+Test Loss: 1311.9627
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9612
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 192 of 300 
+------------
+Train Loss: 1299.2794
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2790
+------------
+Test Loss: 1311.9625
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9610
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 193 of 300 
+------------
+Train Loss: 1299.2888
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2883
+------------
+Test Loss: 1311.9638
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9621
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 194 of 300 
+------------
+Train Loss: 1299.2818
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2814
+------------
+Test Loss: 1311.9625
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9599
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 195 of 300 
+------------
+Train Loss: 1299.2874
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2870
+------------
+Test Loss: 1311.9629
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9612
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 196 of 300 
+------------
+Train Loss: 1299.2832
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2828
+------------
+Test Loss: 1311.9630
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9620
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 197 of 300 
+------------
+Train Loss: 1299.2890
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2887
+------------
+Test Loss: 1311.9618
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9605
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 198 of 300 
+------------
+Train Loss: 1299.2919
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2916
+------------
+Test Loss: 1311.9627
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9613
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 199 of 300 
+------------
+Train Loss: 1299.2858
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2855
+------------
+Test Loss: 1311.9619
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9607
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 200 of 300 
+------------
+Train Loss: 1299.2799
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2797
+------------
+Test Loss: 1311.9635
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9622
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 201 of 300 
+------------
+Train Loss: 1299.2830
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2828
+------------
+Test Loss: 1311.9636
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9621
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 202 of 300 
+------------
+Train Loss: 1299.2836
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2834
+------------
+Test Loss: 1311.9626
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9609
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 203 of 300 
+------------
+Train Loss: 1299.2829
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2826
+------------
+Test Loss: 1311.9641
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9626
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 204 of 300 
+------------
+Train Loss: 1299.2859
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2857
+------------
+Test Loss: 1311.9625
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9614
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 205 of 300 
+------------
+Train Loss: 1299.2828
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2826
+------------
+Test Loss: 1311.9628
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9612
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 206 of 300 
+------------
+Train Loss: 1299.2917
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2915
+------------
+Test Loss: 1311.9642
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9621
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 207 of 300 
+------------
+Train Loss: 1299.2871
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2869
+------------
+Test Loss: 1311.9634
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9619
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 208 of 300 
+------------
+Train Loss: 1299.2794
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2792
+------------
+Test Loss: 1311.9639
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9628
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 209 of 300 
+------------
+Train Loss: 1299.2828
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2826
+------------
+Test Loss: 1311.9644
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9627
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 210 of 300 
+------------
+Train Loss: 1299.2884
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2882
+------------
+Test Loss: 1311.9654
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 211 of 300 
+------------
+Train Loss: 1299.2821
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2818
+------------
+Test Loss: 1311.9649
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9627
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 212 of 300 
+------------
+Train Loss: 1299.2831
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2829
+------------
+Test Loss: 1311.9642
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9618
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 213 of 300 
+------------
+Train Loss: 1299.2884
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2881
+------------
+Test Loss: 1311.9650
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9624
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 214 of 300 
+------------
+Train Loss: 1299.2826
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2824
+------------
+Test Loss: 1311.9649
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 215 of 300 
+------------
+Train Loss: 1299.2813
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2811
+------------
+Test Loss: 1311.9643
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9622
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 216 of 300 
+------------
+Train Loss: 1299.2877
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2874
+------------
+Test Loss: 1311.9640
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9616
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 217 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2847
+------------
+Test Loss: 1311.9639
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9617
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 218 of 300 
+------------
+Train Loss: 1299.2795
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2794
+------------
+Test Loss: 1311.9639
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9624
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 219 of 300 
+------------
+Train Loss: 1299.2858
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2856
+------------
+Test Loss: 1311.9644
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9622
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 220 of 300 
+------------
+Train Loss: 1299.2807
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2805
+------------
+Test Loss: 1311.9662
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9629
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 221 of 300 
+------------
+Train Loss: 1299.2882
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2879
+------------
+Test Loss: 1311.9643
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9619
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 222 of 300 
+------------
+Train Loss: 1299.2786
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2782
+------------
+Test Loss: 1311.9650
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9618
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 223 of 300 
+------------
+Train Loss: 1299.2782
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2779
+------------
+Test Loss: 1311.9667
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9637
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 224 of 300 
+------------
+Train Loss: 1299.2865
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2862
+------------
+Test Loss: 1311.9692
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9639
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 225 of 300 
+------------
+Train Loss: 1299.2843
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2839
+------------
+Test Loss: 1311.9668
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9635
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 226 of 300 
+------------
+Train Loss: 1299.2862
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2859
+------------
+Test Loss: 1311.9670
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9625
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 227 of 300 
+------------
+Train Loss: 1299.2833
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2829
+------------
+Test Loss: 1311.9675
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9626
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 228 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2846
+------------
+Test Loss: 1311.9679
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9637
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 229 of 300 
+------------
+Train Loss: 1299.2881
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2876
+------------
+Test Loss: 1311.9687
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 230 of 300 
+------------
+Train Loss: 1299.2834
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2830
+------------
+Test Loss: 1311.9733
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9648
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 231 of 300 
+------------
+Train Loss: 1299.2866
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2861
+------------
+Test Loss: 1311.9676
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9634
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 232 of 300 
+------------
+Train Loss: 1299.2821
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2816
+------------
+Test Loss: 1311.9701
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 233 of 300 
+------------
+Train Loss: 1299.2866
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2859
+------------
+Test Loss: 1311.9762
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 234 of 300 
+------------
+Train Loss: 1299.2816
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2808
+------------
+Test Loss: 1311.9691
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9636
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 235 of 300 
+------------
+Train Loss: 1299.2872
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2865
+------------
+Test Loss: 1311.9697
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 236 of 300 
+------------
+Train Loss: 1299.2851
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2844
+------------
+Test Loss: 1311.9701
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9636
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 237 of 300 
+------------
+Train Loss: 1299.2879
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2869
+------------
+Test Loss: 1311.9697
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 238 of 300 
+------------
+Train Loss: 1299.2888
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2880
+------------
+Test Loss: 1311.9710
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9639
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 239 of 300 
+------------
+Train Loss: 1299.2805
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2798
+------------
+Test Loss: 1311.9710
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9637
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 240 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2841
+------------
+Test Loss: 1311.9748
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9620
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 241 of 300 
+------------
+Train Loss: 1299.2937
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2930
+------------
+Test Loss: 1311.9706
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9636
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 242 of 300 
+------------
+Train Loss: 1299.2877
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2872
+------------
+Test Loss: 1311.9696
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 243 of 300 
+------------
+Train Loss: 1299.2887
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2883
+------------
+Test Loss: 1311.9676
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9641
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 244 of 300 
+------------
+Train Loss: 1299.2867
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2865
+------------
+Test Loss: 1311.9676
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9624
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 245 of 300 
+------------
+Train Loss: 1299.2809
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2807
+------------
+Test Loss: 1311.9675
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 246 of 300 
+------------
+Train Loss: 1299.2824
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2822
+------------
+Test Loss: 1311.9678
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9632
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 247 of 300 
+------------
+Train Loss: 1299.2894
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2892
+------------
+Test Loss: 1311.9688
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 248 of 300 
+------------
+Train Loss: 1299.2811
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2810
+------------
+Test Loss: 1311.9697
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9641
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 249 of 300 
+------------
+Train Loss: 1299.2835
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2834
+------------
+Test Loss: 1311.9685
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 250 of 300 
+------------
+Train Loss: 1299.2876
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2875
+------------
+Test Loss: 1311.9691
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 251 of 300 
+------------
+Train Loss: 1299.2829
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2828
+------------
+Test Loss: 1311.9717
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9641
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 252 of 300 
+------------
+Train Loss: 1299.2819
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2818
+------------
+Test Loss: 1311.9703
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9636
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 253 of 300 
+------------
+Train Loss: 1299.2834
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2833
+------------
+Test Loss: 1311.9713
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9630
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 254 of 300 
+------------
+Train Loss: 1299.2879
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2877
+------------
+Test Loss: 1311.9675
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9630
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 255 of 300 
+------------
+Train Loss: 1299.2845
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2844
+------------
+Test Loss: 1311.9675
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9626
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 256 of 300 
+------------
+Train Loss: 1299.2875
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2874
+------------
+Test Loss: 1311.9683
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9630
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 257 of 300 
+------------
+Train Loss: 1299.2822
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2821
+------------
+Test Loss: 1311.9672
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9629
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 258 of 300 
+------------
+Train Loss: 1299.2865
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2863
+------------
+Test Loss: 1311.9685
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9626
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 259 of 300 
+------------
+Train Loss: 1299.2788
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2787
+------------
+Test Loss: 1311.9700
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9640
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 260 of 300 
+------------
+Train Loss: 1299.2842
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2841
+------------
+Test Loss: 1311.9695
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9635
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 261 of 300 
+------------
+Train Loss: 1299.2835
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2834
+------------
+Test Loss: 1311.9711
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9644
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 262 of 300 
+------------
+Train Loss: 1299.2847
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2846
+------------
+Test Loss: 1311.9698
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9628
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 263 of 300 
+------------
+Train Loss: 1299.2889
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2888
+------------
+Test Loss: 1311.9714
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9637
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 264 of 300 
+------------
+Train Loss: 1299.2860
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2859
+------------
+Test Loss: 1311.9676
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9632
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 265 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2847
+------------
+Test Loss: 1311.9729
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9648
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 266 of 300 
+------------
+Train Loss: 1299.2867
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2865
+------------
+Test Loss: 1311.9725
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9643
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 267 of 300 
+------------
+Train Loss: 1299.2859
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2858
+------------
+Test Loss: 1311.9706
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9625
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 268 of 300 
+------------
+Train Loss: 1299.2809
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2807
+------------
+Test Loss: 1311.9703
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9629
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 269 of 300 
+------------
+Train Loss: 1299.2854
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2852
+------------
+Test Loss: 1311.9713
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9636
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 270 of 300 
+------------
+Train Loss: 1299.2869
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2867
+------------
+Test Loss: 1311.9728
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9641
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 271 of 300 
+------------
+Train Loss: 1299.2864
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2862
+------------
+Test Loss: 1311.9641
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9613
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 272 of 300 
+------------
+Train Loss: 1299.2868
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2867
+------------
+Test Loss: 1311.9682
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9634
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 273 of 300 
+------------
+Train Loss: 1299.2824
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2823
+------------
+Test Loss: 1311.9698
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9639
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 274 of 300 
+------------
+Train Loss: 1299.2883
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2882
+------------
+Test Loss: 1311.9688
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9643
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 275 of 300 
+------------
+Train Loss: 1299.2809
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2807
+------------
+Test Loss: 1311.9703
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 276 of 300 
+------------
+Train Loss: 1299.2836
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2834
+------------
+Test Loss: 1311.9687
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9637
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 277 of 300 
+------------
+Train Loss: 1299.2808
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2807
+------------
+Test Loss: 1311.9700
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 278 of 300 
+------------
+Train Loss: 1299.2853
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2851
+------------
+Test Loss: 1311.9692
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 279 of 300 
+------------
+Train Loss: 1299.2846
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2844
+------------
+Test Loss: 1311.9702
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9654
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 280 of 300 
+------------
+Train Loss: 1299.2860
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2858
+------------
+Test Loss: 1311.9700
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9651
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 281 of 300 
+------------
+Train Loss: 1299.2859
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2855
+------------
+Test Loss: 1311.9757
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9640
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 282 of 300 
+------------
+Train Loss: 1299.2824
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2821
+------------
+Test Loss: 1311.9709
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9634
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 283 of 300 
+------------
+Train Loss: 1299.2880
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2876
+------------
+Test Loss: 1311.9868
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9649
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 284 of 300 
+------------
+Train Loss: 1299.2857
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2845
+------------
+Test Loss: 1311.9850
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9646
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 285 of 300 
+------------
+Train Loss: 1299.2807
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2794
+------------
+Test Loss: 1311.9968
+Test KL Loss: 0.0002
+Test Rec Loss: 1311.9634
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 286 of 300 
+------------
+Train Loss: 1299.2957
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2923
+------------
+Test Loss: 1312.0157
+Test KL Loss: 0.0003
+Test Rec Loss: 1311.9640
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 287 of 300 
+------------
+Train Loss: 1299.2867
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2812
+------------
+Test Loss: 1312.0194
+Test KL Loss: 0.0004
+Test Rec Loss: 1311.9645
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 288 of 300 
+------------
+Train Loss: 1299.2938
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2878
+------------
+Test Loss: 1312.0121
+Test KL Loss: 0.0003
+Test Rec Loss: 1311.9642
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 289 of 300 
+------------
+Train Loss: 1299.2851
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2792
+------------
+Test Loss: 1311.9823
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9628
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 290 of 300 
+------------
+Train Loss: 1299.2873
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2839
+------------
+Test Loss: 1311.9852
+Test KL Loss: 0.0002
+Test Rec Loss: 1311.9626
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 291 of 300 
+------------
+Train Loss: 1299.2840
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2817
+------------
+Test Loss: 1311.9919
+Test KL Loss: 0.0002
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 292 of 300 
+------------
+Train Loss: 1299.2864
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2853
+------------
+Test Loss: 1311.9727
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9638
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 293 of 300 
+------------
+Train Loss: 1299.2854
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2848
+------------
+Test Loss: 1311.9736
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9653
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 294 of 300 
+------------
+Train Loss: 1299.2818
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2814
+------------
+Test Loss: 1311.9716
+Test KL Loss: 0.0001
+Test Rec Loss: 1311.9640
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 295 of 300 
+------------
+Train Loss: 1299.2895
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2892
+------------
+Test Loss: 1311.9694
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9631
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 296 of 300 
+------------
+Train Loss: 1299.2915
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2911
+------------
+Test Loss: 1311.9716
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9651
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 297 of 300 
+------------
+Train Loss: 1299.2937
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2934
+------------
+Test Loss: 1311.9684
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 298 of 300 
+------------
+Train Loss: 1299.2849
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2846
+------------
+Test Loss: 1311.9678
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9632
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 299 of 300 
+------------
+Train Loss: 1299.2827
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2825
+------------
+Test Loss: 1311.9677
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9633
+------------
+C parameter:  0.000000
+------------
+
+
+ Epoch 300 of 300 
+------------
+Train Loss: 1299.2808
+Train KL Loss: 0.0000
+Train Rec Loss: 1299.2806
+------------
+Test Loss: 1311.9683
+Test KL Loss: 0.0000
+Test Rec Loss: 1311.9643
+------------
+C parameter:  0.000000
+------------
+
